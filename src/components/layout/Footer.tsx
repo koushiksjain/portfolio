@@ -23,7 +23,7 @@ export default function Footer() {
                     <a href="https://www.linkedin.com/in/koushik-s-jain-5361ba228" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                         <Linkedin size={20} />
                     </a>
-                    <a href="mailto:contact@koushiksjain.com" className="text-gray-400 hover:text-white transition-colors">
+                    <a href="mailto:kkoushikjain@gmail.com" className="text-gray-400 hover:text-white transition-colors">
                         <Mail size={20} />
                     </a>
                 </div>
